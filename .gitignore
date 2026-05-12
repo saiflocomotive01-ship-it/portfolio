@@ -1,0 +1,173 @@
+# ===========================
+# Operating System Files
+# ===========================
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.Trash-*
+
+# ===========================
+# IDE & Editor Files
+# ===========================
+
+# VS Code
+.vscode/
+*.code-workspace
+.vs/
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Atom
+.atom/
+.eslintrc
+
+# ===========================
+# Build & Dependencies
+# ===========================
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# ===========================
+# Environment Variables
+# ===========================
+
+.env
+.env.local
+.env.*.local
+.env.production
+
+# ===========================
+# Temporary Files
+# ===========================
+
+*.tmp
+*.temp
+*.log
+*.cache
+.cache/
+
+# ===========================
+# System Files
+# ===========================
+
+*.swp
+*.swo
+*~
+.sass-cache/
+
+# ===========================
+# Database Files
+# ===========================
+
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
+# ===========================
+# Compiled Files
+# ===========================
+
+*.class
+*.jar
+*.war
+*.ear
+*.o
+*.so
+
+# ===========================
+# Backup Files
+# ===========================
+
+*.bak
+*.backup
+*.swp
+*~
+
+# ===========================
+# Configuration Files (Optional)
+# ===========================
+
+# Uncomment if you want to ignore OS X .files
+# **/.*
+
+# ===========================
+# Deployment & CI/CD
+# ===========================
+
+.netlify/
+_site/
+.firebase/
+.surge.sh
+
+# ===========================
+# Documentation Build Files
+# ===========================
+
+docs/_build/
+site/
+
+# ===========================
+# Local Testing
+# ===========================
+
+test/
+tests/
+.mocha
+.test
+
+# ===========================
+# Bundle Files
+# ===========================
+
+dist/
+build/
